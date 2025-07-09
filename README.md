@@ -126,4 +126,9 @@ This notebook is crafted for:
 
 ---
 🎥 Want to really see the power of PCA? Don’t miss the stunning 3D interactive PCA plot in the notebook—it makes the magic of dimensionality reduction come alive!
+![Screenshot 2025-07-09 230652](https://github.com/user-attachments/assets/5586ef18-8e81-4a8f-b7f3-94a236ff105b)
+
+![Screenshot 2025-07-09 230818](https://github.com/user-attachments/assets/e577c61f-8440-464f-abb0-4d12ef25cfef)
+
+
 
