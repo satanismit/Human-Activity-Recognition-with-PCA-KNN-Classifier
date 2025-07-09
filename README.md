@@ -92,8 +92,8 @@ We trained a KNN classifier and evaluated accuracy using various number of princ
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/pca-har-knn.git
-cd pca-har-knn
+git clone https://github.com/satanismit/Human_activity_recognition_with_smartphone.git
+cd Human_activity_recognition_with_smartphone
 ```
 
 2. Install dependencies:
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-jupyter notebook PCA_HAR_KNN.ipynb
+jupyter notebook Human_activity_recognition_with_smartphone.ipynb
 ```
 
 ---
